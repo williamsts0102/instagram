@@ -16,6 +16,7 @@
 		B7C6B8022B005EDD000E4C59 /* UserStatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7C6B8012B005EDD000E4C59 /* UserStatView.swift */; };
 		B7C6B8042B0065A2000E4C59 /* FeedCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7C6B8032B0065A2000E4C59 /* FeedCell.swift */; };
 		B7C6B8062B006A40000E4C59 /* FeedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7C6B8052B006A40000E4C59 /* FeedView.swift */; };
+		B7C6B8082B006F14000E4C59 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7C6B8072B006F14000E4C59 /* SearchView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		B7C6B8012B005EDD000E4C59 /* UserStatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserStatView.swift; sourceTree = "<group>"; };
 		B7C6B8032B0065A2000E4C59 /* FeedCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedCell.swift; sourceTree = "<group>"; };
 		B7C6B8052B006A40000E4C59 /* FeedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedView.swift; sourceTree = "<group>"; };
+		B7C6B8072B006F14000E4C59 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -159,6 +161,7 @@
 		B7C6B7F92B004DC5000E4C59 /* Search */ = {
 			isa = PBXGroup;
 			children = (
+				B7C6B8072B006F14000E4C59 /* SearchView.swift */,
 			);
 			path = Search;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 				B7C6B7FF2B005080000E4C59 /* ProfileView.swift in Sources */,
 				B7C6B7E52B004B95000E4C59 /* ContentView.swift in Sources */,
 				B7C6B7E32B004B95000E4C59 /* instagramApp.swift in Sources */,
+				B7C6B8082B006F14000E4C59 /* SearchView.swift in Sources */,
 				B7C6B8022B005EDD000E4C59 /* UserStatView.swift in Sources */,
 				B7C6B7FD2B004E77000E4C59 /* MainTabView.swift in Sources */,
 				B7C6B8042B0065A2000E4C59 /* FeedCell.swift in Sources */,
